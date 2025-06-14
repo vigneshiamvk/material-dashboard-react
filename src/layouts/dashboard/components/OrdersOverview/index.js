@@ -48,7 +48,7 @@ function OrdersOverview() {
         <TimelineItem
           color="success"
           icon="notifications"
-          title="$2400, Design changes"
+          title="$5000, Catalyst bootcamp"
           dateTime="22 DEC 7:20 PM"
         />
         <TimelineItem
